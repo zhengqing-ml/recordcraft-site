@@ -1,4 +1,4 @@
-# Terms of Use
+# Terms of Use 
 
 ### Effective Date and Scope
 Effective date: March 13, 2026.

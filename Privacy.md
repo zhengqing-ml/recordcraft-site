@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy 
 
 ### Effective Date and Scope
 Effective date: March 13, 2026.

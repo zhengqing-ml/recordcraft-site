@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="assets/AppIcon.png" width="150" alt="RecordCraft Logo" style="border-radius: 24%; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 24px;"/>
   
   <h1>RecordCraft</h1>
