@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <img src="assets/AppIcon.png" width="150" alt="RecordCraft Logo" style="border-radius: 24%; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin-bottom: 24px;"/>
   
   <h1>RecordCraft</h1>
@@ -12,18 +12,29 @@
   <br/>
 </div>
 
-> **RecordCraft** is a privacy-first, local AI audio recording and transcription workspace. Built natively for iPhone, iPad, and Mac, it captures spoken content, generates readable text, identifies speakers, and creates intelligent summaries—all completely on-device.
+**RecordCraft**  is a privacy-first local AI audio recording, transcription, and summarization app. Built natively for iPhone, iPad, and Mac, it captures spoken content, turns it into readable text, identifies speakers, generates AI summaries, and keeps everything organized in one place. Built around a local-first workflow, RecordCraft keeps all processing completely on device for a private, responsive, and streamlined experience.
 
 <br/>
 
-## Core Experience
+## Key features on iPhone & iPad
+- **Privacy-first:** Record audio directly in the app, then generate transcripts, identify speakers, and create AI summaries—without ever moving files to the cloud.
+- **Apple Speech integration:** Leverages Apple Speech with downloadable on-device language models for both real-time and post-recording transcription.
+- **Advanced speaker identification:** Speaker identification is powered by on-device diarization, accurately parsing who said what.
+- **Local AI summaries:** Summaries are generated entirely on device using supported local models such as Google Gemma 3, with additional models to be added over time, as well as Apple Foundation Models powered by Apple Intelligence.
+- **Organization, metadata, and batch processing:** Keep everything organized with folders, pins, audio import and export, robust search, metadata support, mark recording location, and batch processing for multiple recordings. Perfect for meetings, lectures, interviews, presentations, and personal notes.
+- **Clean Liquid Glass design:** Fully embraces Liquid Glass design with a polished interface, including a Liquid Glass recording panel and fluid controls.
+- **iOS 26 and iPadOS 26 integration:** Features a modern Apple-native experience with Live Activities, Dynamic Island, Control Center integration, and Home Screen quick actions for faster access. Also supports microphone selection on iPhone and iPad, as well as low-latency AirPods recording.
 
-- **Local-First Pipeline:** Record audio directly in the app, then generate transcripts, review speaker structure, and create AI summaries—without ever moving files to the cloud.
-- **Apple Intelligence Integration:** Leverages Apple Speech with downloadable on-device language models for live and post-recording transcription.
-- **Advanced Diarization:** Speaker identification is handled with on-device diarization, parsing who said what with precision.
-- **Local AI Summaries:** Summaries are generated entirely locally using supported on-device models like Google Gemma 3 and Whisper.
-- **Seamless Organization:** Keep everything organized using folders, pins, and robust search. Perfect for meetings, lectures, interviews, and personal notes.
-- **Liquid Glass Design:** A modern Apple-native visual style featuring Live Activities and Dynamic Island support for fast-paced use.
+## Key features on Mac
+- **Privacy-first:** Record audio directly in the app, then generate transcripts, identify speakers, and create AI summaries—without ever moving files to the cloud.
+- **System audio and microphone recording:** Supports both microphone input and system audio recording, making it ideal for online meetings, remote lectures, streamed presentations, and other desktop audio workflows.
+- **On-device transcription:** Supports Apple Speech with downloadable on-device language models and OpenAI Whisper models of different sizes for both real-time and post-recording transcription.
+- **Advanced speaker identification:** Speaker identification is powered by on-device diarization, accurately parsing who said what.
+- **Local AI summaries:** Summaries are generated entirely on device using supported local models such as Google Gemma 3 in different sizes, with additional models to be added over time, as well as Apple Foundation Models powered by Apple Intelligence.
+- **Organization, metadata, and batch processing:** Keep everything organized with folders, pins, audio import and export, robust search, metadata support, mark recording location, and batch processing for multiple recordings. Perfect for meetings, lectures, interviews, presentations, and personal notes.
+- **Clean Liquid Glass design:** Fully embraces Liquid Glass design with a polished interface, including a Liquid Glass recording panel and fluid controls.
+- **macOS 26 integration:** Quickly access core recording controls from the menu bar without reopening the full app window, fitting naturally into everyday macOS multitasking. Also supports microphone selection, meeting detection for apps such as Zoom, and low-latency AirPods recording.
+
 
 <br/>
 
