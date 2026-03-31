@@ -1,4 +1,4 @@
-# Terms of Use 
+# Terms of Use
 
 ### Effective Date and Scope
 Effective date: March 13, 2026.
@@ -20,14 +20,18 @@ Output is provided for general informational and productivity purposes only. It 
 
 ### Third-Party AI Models
 RecordCraft integrates third-party AI models to provide transcription, speaker identification, and summary features. Your use of those features is also governed by the license terms of the respective model:
-- **Transcription** is powered by Whisper (© 2022 OpenAI) via WhisperKit (© 2024 argmax, inc.), licensed under the MIT License.
+- **Transcription** is powered by the Whisper model (© 2022 OpenAI, MIT License) via WhisperKit (© 2024 argmax, inc.). Whisper runs entirely on-device; RecordCraft does not connect to or use any OpenAI cloud services.
 - **Speaker identification** uses FluidAudio (© FluidInference Team), licensed under the Apache License, Version 2.0.
 - **Summary generation** is powered by Google Gemma 3 model weights (© Google LLC) made available under the Gemma Terms of Use at `ai.google.dev/gemma/terms`.
 
 The Gemma Terms of Use prohibit certain uses of Gemma models that also apply to your use of RecordCraft's summary feature, including generating content intended to deceive, using outputs to make automated decisions without meaningful human review, generating content promoting violence, or claiming AI outputs represent professional advice when they do not.
 
 ### In-App Purchases and Access
-RecordCraft does not currently offer auto-renewing subscriptions. The current app implementation includes a 7-Day Trial product, a Full Access Unlock product, and optional Tip products. The 7-Day Trial is time-limited access controlled through the App Store. The Full Access Unlock is a one-time non-consumable purchase that unlocks all features available in the current app version at the time of purchase.
+RecordCraft offers two ways to access the full feature set — audio recording, transcription, speaker identification, AI summaries, and export:
+
+- **Yearly Subscription (with 7-Day Free Trial):** Auto-renewable yearly subscription. The first 7 days are free; after the trial, the subscription renews automatically each year unless cancelled at least 24 hours before the end of the current period. Payment is charged to your Apple Account. You can manage or cancel your subscription in Settings > Apple Account > Subscriptions.
+- **Lifetime Unlock:** A one-time non-consumable purchase that unlocks all features available in the current app version at the time of purchase.
+- **Tips:** Optional consumable support purchases that do not unlock additional features.
 
 The developer reserves the right to introduce new features, content, services, or functionality in future app versions that may require separate purchases, subscriptions, or other payment arrangements, even if you have previously purchased the Full Access Unlock. Any such changes will be communicated through app updates and will not retroactively remove access to features you have already unlocked.
 

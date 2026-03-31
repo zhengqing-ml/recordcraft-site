@@ -1,4 +1,4 @@
-# Privacy Choices 
+# Privacy Choices
 
 RecordCraft is designed for on-device use, meaning you possess absolute control over your recordings and data locally on your device.
 
